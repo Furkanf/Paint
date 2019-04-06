@@ -1,2 +1,3 @@
-# Paint
-C diliyle yazilmistir
+# Paint - C
+Allegro.h kütüphanesini kurmanız gerekmektedir.
+
